@@ -1,0 +1,6 @@
+#强制GitHub删除commit 
+git push origin HEAD --force 
+#推送 
+git push -u origin master 
+#回退 
+git reset --hard <commit> 
